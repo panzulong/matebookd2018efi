@@ -5,6 +5,10 @@ __OpenCore EFI for Huawei Matebook D 2018 (MRC-W00A)__
 - Optimized for MacOS ```12.1 Monterey```
 
 所有驱动都能正常使用，就是独立显卡屏蔽了，好像是无解吧。
+搞HDMI好久，还是没有完美解决。算了，真心累了。可以通过HDMI连接外屏，内屏黑，无法使用。
+蓝牙好像断断续续的。
+更新到了0.78.
+系统可以更新，升级到了12.2
 
 
 
